@@ -6,6 +6,8 @@
 A web scraping method to extract titles, links and citations from PubMed's and Google's Scholar search results primarily for meta-analysis use.
 Thank you for using, and share the knowledge. Please read disclamer on the origial paper or Github prior use.
 
+Refer the paper for guide and tutorial, and cite if you found this program useful.
+
 Completed on 2022 Feb 13th, Penang, Malaysia.
 
 '''
@@ -15,7 +17,6 @@ print("Initiating... please wait.\n")
 import requests
 import csv
 import re
-import time
 import random
 import time
 import pandas as pd
