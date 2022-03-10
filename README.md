@@ -1,6 +1,6 @@
 # ScrapPaper
 
-![test](/grapicabs_scrappaper.png)
+![test](/img/abstract.png)
 
 ## About this project
 ScrapPaper is a web scrapping method to extract journal information from PubMed and Google Scholar using Python script. Users need to install Python 3 and required modules, and run the `scrappaper.py` script. Refer to the published paper for detailed instruction. This side project was completed on March 8, 2022 by @rafsanlab. Follow me on Twitter: https://twitter.com/rafsanlab
