@@ -1,5 +1,9 @@
 # ScrapPaper
 
+![bdge_star](https://img.shields.io/github/stars/rafsanlab/ScrapPaper?style=social)
+![bdge_fork](https://img.shields.io/github/forks/rafsanlab/ScrapPaper?style=social) 
+![bdge_twtr](https://img.shields.io/twitter/follow/rafsanlab?style=social) 
+
 ![test](/img/abstract.png)
 
 ## About this project
