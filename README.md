@@ -28,4 +28,5 @@ Rafsanjani, M. R. (2022). ScrapPaper: A web scrapping method to extract journal 
 5. Refer to the published paper for detailed instruction.
 
 ## Disclaimer
-Web scraping might get you blocked from the server, run at your own risk.
+Web scraping might get you blocked from the server, run at your own risk. So far,
+we scrapped 28 pages of Google Scholar results with no issues.
