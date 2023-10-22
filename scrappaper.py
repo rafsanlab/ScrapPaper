@@ -1,7 +1,7 @@
 '''
 ==================================
 'ScrapPaper' by M. R. Rafsanjani
-==========================--======
+==================================
 
 A web scraping method to extract titles, links and citations from PubMed's and Google's Scholar search results primarily for meta-analysis use.
 Thank you for using, and share the knowledge. Please read disclamer on the origial paper or Github prior use.
