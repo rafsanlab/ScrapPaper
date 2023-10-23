@@ -1,6 +1,6 @@
 '''
 ==================================
-'ScrapPaper' by M. R. Rafsanjani testing
+'ScrapPaper' by M. R. Rafsanjani
 ==================================
 
 A web scraping method to extract titles, links and citations from PubMed's and Google's Scholar search results primarily for meta-analysis use.
